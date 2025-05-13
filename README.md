@@ -29,3 +29,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <h3>🕓 Version Control</h3>
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=hwa3845&theme=vue&show_icons=true"/></a>
+</p>
+
+<div align=center>	
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysjang0926&count_bg=%23D7D265&title_bg=%23252222&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
