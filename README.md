@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
+<table align="center">
   <tr>
     <th>분류</th>
     <th style="min-width:550px">사용 기술</th>
