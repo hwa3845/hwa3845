@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨ **신조** 
+<h2>✨ 신조</h2>
 - 토끼를 이긴 거북이
 
 <br>
-## 💻 **기술/역량**
+<h2>💻 기술/역량</h2>
 <table align="center">
   <tr>
     <th>분류</th>
