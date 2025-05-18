@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>✨ 신조</h2>
+<h2>✨ greed </h2>
 <ul>
   <li>토끼를 이긴 거북이</li>
 </ul>
 
 
 <br>
-<h2>💻 기술/역량</h2>
+<h2>💻 skills </h2>
 <table align="center">
   <tr>
     <th>분류</th>
