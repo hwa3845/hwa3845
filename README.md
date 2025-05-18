@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## ✨ **신조** 
+- 토끼를 이긴 거북이
+
+<br>
+## 💻 **기술/역량**
 <table align="center">
   <tr>
     <th>분류</th>
@@ -55,7 +61,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-
+<br>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=hwa3845&theme=vue&show_icons=true"/></a>
 </p>
