@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <h2>✨ 신조</h2>
-<ol>
+<ul>
   <li>토끼를 이긴 거북이</li>
-</ol>
+</ul>
 
 
 <br>
