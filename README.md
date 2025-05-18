@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 <h2>✨ 신조</h2>
-- 토끼를 이긴 거북이
+<ol>
+  <li>토끼를 이긴 거북이</li>
+</ol>
+
 
 <br>
 <h2>💻 기술/역량</h2>
