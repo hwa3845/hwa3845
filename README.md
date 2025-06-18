@@ -19,9 +19,16 @@ Here are some ideas to get you started:
 <ul>
   <li>토끼를 이긴 거북이</li>
 </ul>
+<br/>
+<h2>🔭 project </h2>
+<h3>journie-moment</h3>
+<ul>
+  <li>소개</li>
+  <p></p>
+  <li>기술 스택</li>
+</ul>
 
-
-<br>
+<br/>
 <h2>💻 skills </h2>
 <table align="center">
   <tr>
