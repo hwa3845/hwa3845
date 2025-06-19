@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <h2>✨ greed </h2>
 <ul>
   <li>토끼를 이긴 거북이</li>
+  <p>- 늦코딩이지만 속도보다 명확한 방향을 잡고 꾸준함과 성실함으로 목표 도달에 힘쓰고 있습니다.</p>
 </ul>
 <br/>
 <h2>🔭 project </h2>
