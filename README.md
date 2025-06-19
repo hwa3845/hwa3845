@@ -60,7 +60,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
       <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=&logoColor=white"/>
       <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Apache mavenC71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
       
     </td>
   </tr>
@@ -90,7 +90,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/microsoft azure-3067F0?style=for-the-badge&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/microsoft%20azure-3067F0?style=for-the-badge&logo=&logoColor=white"/>
       
     </td>
   </tr>
