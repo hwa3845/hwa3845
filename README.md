@@ -47,6 +47,8 @@ Here are some ideas to get you started:
     <td>💾 Databases</td>
     <td>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/h2 database-09476B?style=for-the-badge&logo=h2database&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -55,6 +57,19 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/jpa-6DB33F?style=for-the-badge&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Apache mavenC71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+      
+    </td>
+  </tr>
+  <tr>
+    <td>:art: Front</td>
+    <td>
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -68,6 +83,15 @@ Here are some ideas to get you started:
     <td>🕓 Version Control</td>
     <td>
       <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>:flags: DevOps</td>
+    <td>
+      <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/microsoft azure-3067F0?style=for-the-badge&logo=&logoColor=white"/>
+      
     </td>
   </tr>
 </table>
