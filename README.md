@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <tr>
     <td>📋 Languages</td>
     <td>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=&logoColor=white"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
     </td>
@@ -52,6 +52,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/h2 database-09476B?style=for-the-badge&logo=h2database&logoColor=white"/>
+      <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/oracle-DD0700?style=for-the-badge&logo=&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -72,6 +74,8 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
       <img src="https://img.shields.io/badge/ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=white"/>
       <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -88,11 +92,12 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td>:flags: DevOps</td>
+    <td>:flags: DevOps & Infrastructure</td>
     <td>
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
       <img src="https://img.shields.io/badge/microsoft%20azure-3067F0?style=for-the-badge&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
     </td>
   </tr>
 </table>
