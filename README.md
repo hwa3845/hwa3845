@@ -96,8 +96,13 @@ Here are some ideas to get you started:
     <td>
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=white"/>
-      <img src="https://img.shields.io/badge/microsoft%20azure-3067F0?style=for-the-badge&logo=&logoColor=white"/>
       <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>:cloud: Cloud</td>
+    <td>
+      <img src="https://img.shields.io/badge/microsoft%20azure-3067F0?style=for-the-badge&logo=&logoColor=white"/>
     </td>
   </tr>
 </table>
