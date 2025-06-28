@@ -62,6 +62,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/h2 database-09476B?style=for-the-badge&logo=h2database&logoColor=white"/>
       <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
       <img src="https://img.shields.io/badge/oracle-DD0700?style=for-the-badge&logo=&logoColor=white"/>
+      <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
     </td>
   </tr>
   <tr>
