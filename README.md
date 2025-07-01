@@ -38,6 +38,10 @@ Here are some ideas to get you started:
   - 날짜 자료형 및 UI조건 분기 오류 등 트러블슈팅 주도, 최종 안정화까지 책임
   - 타임캡슐 일기의 공개/비공개일 때의 이미지 분리로 사용자 편의성 강화
 - **기본 게시판(감사일기)기능은 팀원들과 협업하여 공동 개발**
+  - 게시판 CRUD
+  - Bcrypt(단방향 암호화) 사용한 로컬 DB활용의 로그인, 회원가입 구현
+  - totalCount, offset 활용한 GET방식으로 페이징 구현
+  - DB의 query를 이용한 검색, 정렬, 필터링 기능 구현
 
 <br/>
 <h2>💻 skills </h2>
@@ -52,6 +56,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=&logoColor=white"/>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
       <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -92,6 +97,7 @@ Here are some ideas to get you started:
     <td>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
       <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+      <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
     </td>
   </tr>
   <tr>
